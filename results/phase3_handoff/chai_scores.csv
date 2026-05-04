@@ -1,0 +1,11 @@
+group,candidate_id,aggregate_score,ptm,iptm,has_inter_chain_clashes,chain_chain_clashes
+esm2_top,samples_design_6_dldesign_2,0.6185382604598999,0.7193171977996826,0.5933435559272766,False,"[[[0, 0, 0], [0, 0, 0], [0, 0, 0]]]"
+esm2_top,samples_design_6_dldesign_3,0.6267290115356445,0.72944176197052,0.601050853729248,False,"[[[0, 0, 0], [0, 0, 0], [0, 0, 0]]]"
+esm2_top,samples_design_6_dldesign_4,0.6489590406417847,0.7422372698783875,0.6256394386291504,False,"[[[0, 0, 0], [0, 0, 0], [0, 0, 0]]]"
+esm2_top,samples_design_6_dldesign_7,0.6355077624320984,0.7322971820831299,0.6113103628158569,False,"[[[0, 0, 0], [0, 0, 0], [0, 0, 0]]]"
+esm2_top,samples_design_6_dldesign_5,0.6448585391044617,0.7408445477485657,0.6208620667457581,False,"[[[0, 0, 0], [0, 0, 0], [0, 0, 0]]]"
+random_baseline,samples_design_2_dldesign_7,0.6261689066886902,0.7250593900680542,0.601446270942688,False,"[[[0, 0, 0], [0, 0, 0], [0, 0, 0]]]"
+random_baseline,samples_design_3_dldesign_6,0.6240294575691223,0.7218740582466125,0.5995683073997498,False,"[[[0, 0, 0], [0, 0, 0], [0, 0, 0]]]"
+random_baseline,samples_design_1_dldesign_7,0.6094438433647156,0.7149836421012878,0.5830588936805725,False,"[[[0, 0, 0], [0, 0, 0], [0, 0, 0]]]"
+random_baseline,samples_design_3_dldesign_1,0.6691012978553772,0.7516725659370422,0.6484584212303162,False,"[[[0, 0, 0], [0, 0, 0], [0, 0, 0]]]"
+random_baseline,samples_design_0_dldesign_5,0.5959328413009644,0.6967949867248535,0.5707173347473145,False,"[[[0, 0, 0], [0, 0, 0], [0, 0, 0]]]"
